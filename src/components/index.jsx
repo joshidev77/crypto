@@ -3,7 +3,7 @@ import RegisterContainer from "./register/RegisterContainer";
 import LoginContainer from "./login/LoginContainer";
 import CampaignListContainer from "./campaignList/CampaignListContainer";
 import CreateCampaignContainer from "./createCampaign/CreateCampaignContainer";
-import UserDashBoardContainer from "./userDashboard/UserDashBoardContainer";
+import UserDashBoardContainer from "./userDashboard/UserDashBoardContainer.jsx";
 import CampaignDetailsContainer from "./campaigndetails/CampaignDetailsContainer";
 import ContactUsContainer from "./contactus/ContactUsContainer";
 import WithDrawContainer from "./withdraw/WithDrawContainer";
