@@ -1,4 +1,4 @@
-import CryptoBacker from '../artifacts/contracts/cryptoBacker.sol/CryptoBacker.json';
+import CryptoBacker from '../artifacts/contracts/CryptoBacker.sol/CryptoBacker.json';
 import { ethers } from "ethers";
 import axios from 'axios';
 import toast from 'react-hot-toast';
