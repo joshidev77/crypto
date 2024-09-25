@@ -267,4 +267,4 @@ const UserDashBoardContainer = () => {
   )
 }
 
-export default UserDashBoardContainer
+export default UserDashBoardContainer;
